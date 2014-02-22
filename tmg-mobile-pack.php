@@ -7,6 +7,7 @@ Description: kit wordpress mobile TMG
 Version: 0.1
 Author: Pierre Munck
 Author URI: https://github.com/PierreMunck
+Licence : LICENCE.md (Tecnologia Moviles Globales)
 */
 
 $actual_path = explode ( ';' , get_include_path());
